@@ -4,12 +4,12 @@ This project is a simple REST API service built with Node.js, Express, and Mongo
 
 
 ### Technologies Used
-Node.js: JavaScript runtime environment.
-Express.js: Fast, unopinionated, minimalist web framework for Node.js.
-MongoDB: NoSQL database for storing payment records.
-Mongoose: MongoDB object modeling tool.
-Axios: Promise-based HTTP client to interact with Daraja API.
-Daraja API: Safaricom's API for M-Pesa integration.
+ * Node.js: JavaScript runtime environment.
+ * Express.js: Fast, unopinionated, minimalist web framework for Node.js.
+ * MongoDB: NoSQL database for storing payment records.
+ * Mongoose: MongoDB object modeling tool.
+ * Axios: Promise-based HTTP client to interact with Daraja API.
+ * Daraja API: Safaricom's API for M-Pesa integration.
 
 ### Prerequisites
 
